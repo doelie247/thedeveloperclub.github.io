@@ -30,7 +30,6 @@ main {
 
 /* BEGIN: navbar/footer stuff */
 
-
 .footer {
 	position: absolute;
 	bottom: 0;
@@ -79,5 +78,3 @@ div.navbar-collapse > div.navbar-nav > a.nav-link:hover {
 	width: 31rem;
 	border: 0.2rem solid;
 }
-
-/* END: navbar/footer stuff */
